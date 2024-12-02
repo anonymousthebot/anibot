@@ -18,7 +18,7 @@ function Footer() {
       <section id={styles.copyright_section} className="">
         <div className="center display_flex_row">
           <div>
-            <small>Copyright © 2024, AniProject. All Rights Reserved</small>
+          <small>Copyright © 2024 TanmoyTheBoT, AniProject. All Rights Reserved</small>
           </div>
 
           <div>
