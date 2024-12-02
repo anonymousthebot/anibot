@@ -68,8 +68,6 @@ function Header() {
           <UserSideMenu />
         </div>
       </div>
-      <meta name="google-site-verification" content="Lx7kA456351Lysw-9H1Q_PWnGONJiE4jRSumqZTl8rU" />
-      <meta name="msvalidate.01" content="29CA3FB86D57C782D285492D55214CCA" />
     </header>
   );
 }
